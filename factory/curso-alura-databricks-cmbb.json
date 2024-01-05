@@ -1,0 +1,9 @@
+{
+	"name": "curso-alura-databricks-cmbb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9b43e77-65e4-48d6-ba3c-372c558210f2",
+		"tenantId": "4501060e-ce00-4364-ad76-7d38e6d32315"
+	}
+}
