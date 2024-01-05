@@ -1,0 +1,24 @@
+{
+	"name": "pipeline_trigger_1hour",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "datalake-ingestion",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Hour",
+				"interval": 3,
+				"startTime": "2024-01-05T15:48:00",
+				"timeZone": "E. South America Standard Time"
+			}
+		}
+	}
+}
