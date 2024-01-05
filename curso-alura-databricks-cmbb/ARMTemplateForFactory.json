@@ -121,8 +121,8 @@
 				"typeProperties": {
 					"recurrence": {
 						"frequency": "Hour",
-						"interval": 3,
-						"startTime": "2024-01-05T15:48:00",
+						"interval": 1,
+						"startTime": "2024-01-05T15:54:00",
 						"timeZone": "E. South America Standard Time"
 					}
 				}
